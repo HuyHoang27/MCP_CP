@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "MCP Server CSV": {
+            "url": "http://localhost:8001/sse",
+            "transport": "sse",
+            "timeout": 600,
+            "headers": null,
+            "sse_read_timeout": 900
+        }
+    }
+}
